@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'https://ec2-stage.shlomi.com/api'
+  url: 'http://localhost:8080/'
 };
 
 /*
